@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Enkapsulasi_007", "Enkapsul
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Polimorpi_007", "Polimorpi_007\Polimorpi_007.vcxproj", "{F3ADCCE5-D841-4C10-8A76-C032C39E117E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Abstraksi_007.cpp", "Abstraksi_007.cpp\Abstraksi_007.cpp.vcxproj", "{03AA8DBE-BF34-4C6F-B903-5C3D5D62665C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{F3ADCCE5-D841-4C10-8A76-C032C39E117E}.Release|x64.Build.0 = Release|x64
 		{F3ADCCE5-D841-4C10-8A76-C032C39E117E}.Release|x86.ActiveCfg = Release|Win32
 		{F3ADCCE5-D841-4C10-8A76-C032C39E117E}.Release|x86.Build.0 = Release|Win32
+		{03AA8DBE-BF34-4C6F-B903-5C3D5D62665C}.Debug|x64.ActiveCfg = Debug|x64
+		{03AA8DBE-BF34-4C6F-B903-5C3D5D62665C}.Debug|x64.Build.0 = Debug|x64
+		{03AA8DBE-BF34-4C6F-B903-5C3D5D62665C}.Debug|x86.ActiveCfg = Debug|Win32
+		{03AA8DBE-BF34-4C6F-B903-5C3D5D62665C}.Debug|x86.Build.0 = Debug|Win32
+		{03AA8DBE-BF34-4C6F-B903-5C3D5D62665C}.Release|x64.ActiveCfg = Release|x64
+		{03AA8DBE-BF34-4C6F-B903-5C3D5D62665C}.Release|x64.Build.0 = Release|x64
+		{03AA8DBE-BF34-4C6F-B903-5C3D5D62665C}.Release|x86.ActiveCfg = Release|Win32
+		{03AA8DBE-BF34-4C6F-B903-5C3D5D62665C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
